@@ -1,0 +1,48 @@
+c:\users\nick\documents\visual studio 2017\Projects\Lab2 - client\Lab2 - client\bin\Debug\Lab2 - client.exe.config
+c:\users\nick\documents\visual studio 2017\Projects\Lab2 - client\Lab2 - client\bin\Debug\Lab2 - client.exe
+c:\users\nick\documents\visual studio 2017\Projects\Lab2 - client\Lab2 - client\bin\Debug\Lab2 - client.pdb
+c:\users\nick\documents\visual studio 2017\Projects\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.exe
+c:\users\nick\documents\visual studio 2017\Projects\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.pdb
+C:\Users\Nick\documents\visual studio 2017\Projects\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Labs\lab-2-master\Lab2 - client\Lab2 - client\bin\Debug\Lab2 - client.exe.config
+C:\Users\Nick\Documents\Labs\lab-2-master\Lab2 - client\Lab2 - client\bin\Debug\Lab2 - client.exe
+C:\Users\Nick\Documents\Labs\lab-2-master\Lab2 - client\Lab2 - client\bin\Debug\Lab2 - client.pdb
+C:\Users\Nick\Documents\Labs\lab-2-master\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Labs\lab-2-master\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\Labs\lab-2-master\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.exe
+C:\Users\Nick\Documents\Labs\lab-2-master\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.pdb
+C:\Andrew\учеба\apis\мое\lab-2-master\Lab2 - client\Lab2 - client\bin\Debug\Lab2 - client.exe.config
+C:\Andrew\учеба\apis\мое\lab-2-master\Lab2 - client\Lab2 - client\bin\Debug\Lab2 - client.exe
+C:\Andrew\учеба\apis\мое\lab-2-master\Lab2 - client\Lab2 - client\bin\Debug\Lab2 - client.pdb
+C:\Andrew\учеба\apis\мое\lab-2-master\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.csprojResolveAssemblyReference.cache
+C:\Andrew\учеба\apis\мое\lab-2-master\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.csproj.CoreCompileInputs.cache
+C:\Andrew\учеба\apis\мое\lab-2-master\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.exe
+C:\Andrew\учеба\apis\мое\lab-2-master\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.pdb
+C:\Andrew\учеба\apis\мое\готовое\lab-2\Lab2 - client\Lab2 - client\bin\Debug\Lab2 - client.exe.config
+C:\Andrew\учеба\apis\мое\готовое\lab-2\Lab2 - client\Lab2 - client\bin\Debug\Lab2 - client.exe
+C:\Andrew\учеба\apis\мое\готовое\lab-2\Lab2 - client\Lab2 - client\bin\Debug\Lab2 - client.pdb
+C:\Andrew\учеба\apis\мое\готовое\lab-2\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.csprojResolveAssemblyReference.cache
+C:\Andrew\учеба\apis\мое\готовое\lab-2\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.csproj.CoreCompileInputs.cache
+C:\Andrew\учеба\apis\мое\готовое\lab-2\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.exe
+C:\Andrew\учеба\apis\мое\готовое\lab-2\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.pdb
+C:\Users\Nick\Documents\Lab2-master\lab-2\Lab2 - client\Lab2 - client\bin\Debug\Lab2 - client.exe.config
+C:\Users\Nick\Documents\Lab2-master\lab-2\Lab2 - client\Lab2 - client\bin\Debug\Lab2 - client.exe
+C:\Users\Nick\Documents\Lab2-master\lab-2\Lab2 - client\Lab2 - client\bin\Debug\Lab2 - client.pdb
+C:\Users\Nick\Documents\Lab2-master\lab-2\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Lab2-master\lab-2\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\Lab2-master\lab-2\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.exe
+C:\Users\Nick\Documents\Lab2-master\lab-2\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.pdb
+C:\Andrew\учеба\apis\доделать\Lab2-master\lab-2\Lab2 - client\Lab2 - client\bin\Debug\Lab2 - client.exe.config
+C:\Andrew\учеба\apis\доделать\Lab2-master\lab-2\Lab2 - client\Lab2 - client\bin\Debug\Lab2 - client.exe
+C:\Andrew\учеба\apis\доделать\Lab2-master\lab-2\Lab2 - client\Lab2 - client\bin\Debug\Lab2 - client.pdb
+C:\Andrew\учеба\apis\доделать\Lab2-master\lab-2\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.csprojResolveAssemblyReference.cache
+C:\Andrew\учеба\apis\доделать\Lab2-master\lab-2\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.csproj.CoreCompileInputs.cache
+C:\Andrew\учеба\apis\доделать\Lab2-master\lab-2\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.exe
+C:\Andrew\учеба\apis\доделать\Lab2-master\lab-2\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.pdb
+C:\Andrew\учеба\apis\доделать\Lab2\lab-2\Lab2 - client\Lab2 - client\bin\Debug\Lab2 - client.exe.config
+C:\Andrew\учеба\apis\доделать\Lab2\lab-2\Lab2 - client\Lab2 - client\bin\Debug\Lab2 - client.exe
+C:\Andrew\учеба\apis\доделать\Lab2\lab-2\Lab2 - client\Lab2 - client\bin\Debug\Lab2 - client.pdb
+C:\Andrew\учеба\apis\доделать\Lab2\lab-2\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.csprojResolveAssemblyReference.cache
+C:\Andrew\учеба\apis\доделать\Lab2\lab-2\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.csproj.CoreCompileInputs.cache
+C:\Andrew\учеба\apis\доделать\Lab2\lab-2\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.exe
+C:\Andrew\учеба\apis\доделать\Lab2\lab-2\Lab2 - client\Lab2 - client\obj\Debug\Lab2 - client.pdb

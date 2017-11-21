@@ -1,0 +1,34 @@
+c:\users\nick\documents\visual studio 2017\Projects\Lab2 - server\Lab2 - server\obj\Debug\Lab2 - server.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2017\Projects\Lab2 - server\Lab2 - server\bin\Debug\Lab2 - server.exe.config
+c:\users\nick\documents\visual studio 2017\Projects\Lab2 - server\Lab2 - server\bin\Debug\Lab2 - server.exe
+c:\users\nick\documents\visual studio 2017\Projects\Lab2 - server\Lab2 - server\bin\Debug\Lab2 - server.pdb
+c:\users\nick\documents\visual studio 2017\Projects\Lab2 - server\Lab2 - server\obj\Debug\Lab2 - server.exe
+c:\users\nick\documents\visual studio 2017\Projects\Lab2 - server\Lab2 - server\obj\Debug\Lab2 - server.pdb
+C:\Users\Nick\Documents\Labs\lab-2-master\Lab2 - server\Lab2 - server\bin\Debug\Lab2 - server.exe.config
+C:\Users\Nick\Documents\Labs\lab-2-master\Lab2 - server\Lab2 - server\bin\Debug\Lab2 - server.exe
+C:\Users\Nick\Documents\Labs\lab-2-master\Lab2 - server\Lab2 - server\bin\Debug\Lab2 - server.pdb
+C:\Users\Nick\Documents\Labs\lab-2-master\Lab2 - server\Lab2 - server\obj\Debug\Lab2 - server.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Labs\lab-2-master\Lab2 - server\Lab2 - server\obj\Debug\Lab2 - server.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\Labs\lab-2-master\Lab2 - server\Lab2 - server\obj\Debug\Lab2 - server.exe
+C:\Users\Nick\Documents\Labs\lab-2-master\Lab2 - server\Lab2 - server\obj\Debug\Lab2 - server.pdb
+C:\Users\Nick\Documents\Lab2-master\lab-2\Lab2 - server\Lab2 - server\bin\Debug\Lab2 - server.exe.config
+C:\Users\Nick\Documents\Lab2-master\lab-2\Lab2 - server\Lab2 - server\bin\Debug\Lab2 - server.exe
+C:\Users\Nick\Documents\Lab2-master\lab-2\Lab2 - server\Lab2 - server\bin\Debug\Lab2 - server.pdb
+C:\Users\Nick\Documents\Lab2-master\lab-2\Lab2 - server\Lab2 - server\obj\Debug\Lab2 - server.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Lab2-master\lab-2\Lab2 - server\Lab2 - server\obj\Debug\Lab2 - server.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\Lab2-master\lab-2\Lab2 - server\Lab2 - server\obj\Debug\Lab2 - server.exe
+C:\Users\Nick\Documents\Lab2-master\lab-2\Lab2 - server\Lab2 - server\obj\Debug\Lab2 - server.pdb
+C:\Andrew\учеба\apis\доделать\Lab2-master\lab-2\Lab2 - server\Lab2 - server\bin\Debug\Lab2 - server.exe.config
+C:\Andrew\учеба\apis\доделать\Lab2-master\lab-2\Lab2 - server\Lab2 - server\bin\Debug\Lab2 - server.exe
+C:\Andrew\учеба\apis\доделать\Lab2-master\lab-2\Lab2 - server\Lab2 - server\bin\Debug\Lab2 - server.pdb
+C:\Andrew\учеба\apis\доделать\Lab2-master\lab-2\Lab2 - server\Lab2 - server\obj\Debug\Lab2 - server.csprojResolveAssemblyReference.cache
+C:\Andrew\учеба\apis\доделать\Lab2-master\lab-2\Lab2 - server\Lab2 - server\obj\Debug\Lab2 - server.csproj.CoreCompileInputs.cache
+C:\Andrew\учеба\apis\доделать\Lab2-master\lab-2\Lab2 - server\Lab2 - server\obj\Debug\Lab2 - server.exe
+C:\Andrew\учеба\apis\доделать\Lab2-master\lab-2\Lab2 - server\Lab2 - server\obj\Debug\Lab2 - server.pdb
+C:\Andrew\учеба\apis\доделать\Lab2\lab-2\Lab2 - server\Lab2 - server\bin\Debug\Lab2 - server.exe.config
+C:\Andrew\учеба\apis\доделать\Lab2\lab-2\Lab2 - server\Lab2 - server\bin\Debug\Lab2 - server.exe
+C:\Andrew\учеба\apis\доделать\Lab2\lab-2\Lab2 - server\Lab2 - server\bin\Debug\Lab2 - server.pdb
+C:\Andrew\учеба\apis\доделать\Lab2\lab-2\Lab2 - server\Lab2 - server\obj\Debug\Lab2 - server.csprojResolveAssemblyReference.cache
+C:\Andrew\учеба\apis\доделать\Lab2\lab-2\Lab2 - server\Lab2 - server\obj\Debug\Lab2 - server.csproj.CoreCompileInputs.cache
+C:\Andrew\учеба\apis\доделать\Lab2\lab-2\Lab2 - server\Lab2 - server\obj\Debug\Lab2 - server.exe
+C:\Andrew\учеба\apis\доделать\Lab2\lab-2\Lab2 - server\Lab2 - server\obj\Debug\Lab2 - server.pdb
